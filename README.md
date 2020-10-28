@@ -1,13 +1,13 @@
-gentoo-cheat sheet
-==================
+Cheatsheet Template
+===
 
-Short reference card for gentoo beginners
+Template to create a reference card/cheatsheet for study
 
 Maintainer
-==========
-* Jonas Stein
+===
+* thatonesysadmin 
 
-Contributor
-===========
-* Randy Andy
-* Jean-Paul
+Disclaimer:
+===
+
+This is built upon an existing project created by [Jonas Stein](https://github.com/jonasstein/gentoo-cheat)
